@@ -1,3 +1,5 @@
+# Author
+Duy Nguyen
 # ML
 Machine learning small demos
 # Software requirements:
